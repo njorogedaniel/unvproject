@@ -148,7 +148,6 @@ if (isset($_POST['submit'])){
                     </form>
 
                 </div>
-<!--                <div class="panel-footer" style="font-size: smaller">Copyright &copy; <a href="#">Keja Manager</a> 2019, All Rights Reserved.</br>Powered by:<a href="">Dan Dev</a>.</div>-->
             </div>
         </div>
     </div>
