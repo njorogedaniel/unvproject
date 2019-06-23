@@ -1,16 +1,3 @@
-<?php
-require ('config.php');
-if (isset($_POST['search'])){
-    $id = $_POST['search'];
-    $sql = "SELECT * FROM projects WHERE project_id='$id'";
-    if ($link->query($sql) == true){
-
-
-    }
-}
-
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
