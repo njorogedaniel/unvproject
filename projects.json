@@ -1,0 +1,100 @@
+{
+  "projects": [
+ {
+    "project_id": "1",
+    "country": "Angola, Kenya\n",
+    "project_status": "completed"
+  },
+    {
+      "project_id": "2",
+      "country": "Benin, Kenya, Tanzania\n",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "3",
+      "country": "Eswatini\n",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "4",
+      "country": "Ethiopia\n",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "5",
+      "country": "The Gambia\n",
+      "project_status": "under implementation"
+    },
+    {
+      "project_id": "6",
+      "country": "Ghana\n",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "7",
+      "country": "Kenya",
+      "project_status": "completion report submitted"
+    },
+    {
+      "project_id": "8",
+      "country": "Nigeria",
+      "project_status": "under implementation\n"
+
+    },
+    {
+      "project_id": "9",
+      "country": "South Africa",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "10",
+      "country": "Tanzania",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "11",
+      "country": "Tunisia",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "12",
+      "country": "Uganda",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "13",
+      "country": "Afghanistan",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "14",
+      "country": "Cambodia",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "15",
+      "country": "China",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "16",
+      "country": "India",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "17",
+      "country": "Iran",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "18",
+      "country": "Iraq, Kiribati, South Sudan\n",
+      "project_status": "under implementation\n"
+    },
+    {
+      "project_id": "19",
+      "country": "Kiribati",
+      "project_status": "under implementation\n"
+    }
+  ]
+}
